@@ -1,0 +1,66 @@
+p{
+	color: #f587d0;
+}
+
+#div1{
+	width: 200px;
+	height: 800px;
+	background-color: #f547ac;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+
+#div2{
+	width: 200px;
+	height: 800px;
+	background-color: #f547ac;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	z-index: 2;
+}
+
+#div3{
+	font-size: 20px;
+	font-family: consolas;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	position: fixed;
+	left: 250px;
+	top: 250px;
+	z-index: 2;
+}
+
+#btn
+{
+	font-style: normal;
+	font-size: 20px;
+	font-family: consolas;
+	background-color:#f587d0;
+	bottom: 0px;
+	left: 30px;
+	position: absolute;
+}
+
+#gif1
+{
+	width: 200px;
+	height: 200px;
+	left: 0px;
+	top: 200px;
+	z-index: 10;
+	position: absolute;
+}
+
+#gif2
+{
+	width: 200px;
+	height: 200px;
+	right: 0px;
+	top: 200px;
+	z-index: 10;
+	position: absolute;
+}
